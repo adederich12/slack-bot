@@ -1,0 +1,50 @@
+[
+  {
+    "script": "{{1}}, I have so much respect for you and I wish you would contribute more around here. My {{2}} is off to you, friend.",
+    "tokens": {
+      "1": {
+        "type": "USER"
+      },
+      "2": {
+        "type": "NOUN"
+      }
+    }
+  },
+  {
+    "script": "You get me so {{1}}, {{2}}! I love you mad, baby.",
+    "tokens": {
+      "1": {
+        "type": "ADJ"
+      },
+      "2": {
+        "type": "USER"
+      }
+    }
+  },
+  {
+    "script": "{{1}}, you're not like the other {{2}} around here. You've got a good {{3}} on your shoulders.",
+    "tokens": {
+      "1": {
+        "type": "USER"
+      },
+      "2": {
+        "type": "NOUN",
+        "mods": ["plural"]
+      },
+      "3": {
+        "type": "NOUN"
+      }
+    }
+  },
+  {
+    "script": "You're my favorite {{1}}, {{2}}!",
+    "tokens": {
+      "1": {
+        "type": "NOUN"
+      },
+      "2": {
+        "type": "USER"
+      }
+    }
+  }
+]

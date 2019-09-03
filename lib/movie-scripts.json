@@ -1,0 +1,341 @@
+[
+  { 
+    "script": "A {{1}} who has booked passage on a {{2}} shipping freighter with a fresh haul of {{3}} and {{4}} animals from {{5}}, including a rare {{6}} {{7}} - along with a {{8}} being extradited to the U.S in secret. Two days into the journey, the {{8}} escapes and releases the captive {{9}}, throwing the ship into a state of {{10}}.",
+    "genre": "action",
+    "tokens": {
+      "1": {
+        "type": "PERSON"
+      },
+      "2": {
+        "type": "ADJ"
+      },
+      "3": {
+        "type": "ADJ"
+      },
+      "4": {
+        "type": "ADJ"
+      },
+      "5": {
+        "type": "LOC"
+      },
+      "6": {
+        "type": "ADJ"
+      },
+      "7": {
+        "type": "ANIMAL"
+      },
+      "8": {
+        "type": "PERSON"
+      },
+      "9": {
+        "type": "NOUN",
+        "mods": ["plural"]
+      },
+      "10": {
+        "type": "ABNOUN"
+      }
+    }
+  },
+  {
+    "script": "In the twenty-third century, the {{1}} is threatened by a {{2}}. The only hope for mankind is the {{3}}, who comes to Earth every five thousand years to {{4}} the humans with four {{5}} of the four elements: fire, water, Earth and {{6}}. A Mondoshawan spacecraft is bringing the {{3}} back to Earth but it is destroyed by the {{7}} Mangalores. However, a team of {{8}} use the DNA of the remains of the {{3}} to rebuild the perfect being called {{9}}. She escapes from the laboratory and stumbles upon the {{10}} driver and former {{11}} {{12}} that helps her to escape from the police. {{9}} tells him that she must meet Father Vito Cornelius to accomplish her mission. Meanwhile, the Evil uses the greedy and cruel {{13}} and a team of {{14}} to retrieve the {{5}} and avoid the protection of {{9}}. But the skilled {{12}} has fallen in love with {{9}} and decides to help her to retrieve the {{5}}.",
+    "genre": "action",
+    "tokens": {
+      "1": {
+        "type": "NOUN"
+      },
+      "2": {
+        "type": "NOUN"
+      },
+      "3": {
+        "type": "TITLE"
+      },
+      "4": {
+        "type": "VERB"
+      },
+      "5": {
+        "type": "NOUN",
+        "mods": ["plural"]
+      },
+      "6": {
+        "type": "NOUN"
+      },
+      "7": {
+        "type": "ADJ"
+      },
+      "8": {
+        "type": "PERSON",
+        "mods": ["plural"]
+      },
+      "9": {
+        "type": "FULLNAMEF"
+      },
+      "10": {
+        "type": "ADJ"
+      },
+      "11": {
+        "type": "TITLE"
+      },
+      "12": {
+        "type": "FULLNAMEM"
+      },
+      "13": {
+        "type": "FULLNAMEM"
+      },
+      "14": {
+        "type": "PERSON",
+        "mods": ["plural"]
+      }
+    }
+  },
+  {
+    "script": "In a world where {{1}} walk the earth, {{2}} has a goal. His goal is to rid the world of all {{3}} evil. When {{2}} witnesses a {{4}} bite Dr. {{5}}, he fights away the {{4}} and takes her back to his hideout. Here, alongside {{6}}, {{2}} attempts to help heal {{5}}. The {{4}} Quinn who was attacked by {{2}}, reports back to his master {{7}}, who is planning a huge {{8}} for the human population.",
+    "genre": "action",
+    "tokens": {
+      "1": {
+        "type": "PERSON",
+        "mods": ["plural"]
+      },
+      "2": {
+        "type": "FULLNAMEM"
+      },
+      "3": {
+        "type": "NOUN"
+      },
+      "4": {
+        "type": "NOUN"
+      },
+      "5": {
+        "type": "FULLNAMEF"
+      },
+      "6": {
+        "type": "FULLNAMEM"
+      },
+      "7": {
+        "type": "FULLNAMEM"
+      },
+      "8": {
+        "type": "NOUN"
+      }
+    }
+  },
+  {
+    "script": "On the day of {{1}}'s birth, his father dies on his damaged {{2}} in a last stand against a Romulan {{3}} vessel looking for {{4}} Spock, who in this time, has grown on Vulcan disdained by his {{5}} for his {{6}} heritage. 25 years later, {{1}} has grown into a young rebellious {{7}}. Challenged by Captain {{8}} to realize his potential in Starfleet, he comes to {{9}} academy instructors like {{4}} Spock. Suddenly, there is an emergency on Vulcan and the newly-commissioned USS Enterprise is crewed with promising cadets like {{10}}, Hikaru Sulu, {{11}} and even {{1}} himself, thanks to Leonard McCoy's {{12}} trickery. Together, this crew will have an adventure in {{13}} where the old {{14}} is altered forever as a new version of the {{14}} begins.",
+    "genre": "action",
+    "tokens": {
+      "1": {
+        "type": "FULLNAMEM"
+      },
+      "2": {
+        "type": "NOUN"
+      },
+      "3": {
+        "type": "VERB"
+      },
+      "4": {
+        "type": "TITLE"
+      },
+      "5": {
+        "type": "PERSON",
+        "mods": ["plural"]
+      },
+      "6": {
+        "type": "ADJ"
+      },
+      "7": {
+        "type": "PERSON"
+      },
+      "8": {
+        "type": "FULLNAMEM"
+      },
+      "9": {
+        "type": "VERB"
+      },
+      "10": {
+        "type": "FULLNAMEF"
+      },
+      "11": {
+        "type": "FULLNAMEM"
+      },
+      "12": {
+        "type": "ADJ"
+      },
+      "13": {
+        "type": "LOC"
+      },
+      "14": {
+        "type": "NOUN"
+      }
+    }
+  },
+  {
+    "script": "On a school field trip, {{1}} is bitten by a genetically modified {{2}}. He wakes up the next morning with incredible powers. After witnessing the death of his uncle {{3}}, {{1}} decides to put his new skills to use in order to rid the city of {{4}}, but someone else has other plans. The {{5}} sees Spider-Man as a threat and must {{6}} him. Even if it means the {{5}} has to target {{1}}'s Aunt {{7}} and the girl he secretly pines for.",
+    "genre": "action",
+    "tokens": {
+      "1": {
+        "type": "FULLNAMEM"
+      },
+      "2": {
+        "type": "NOUN"
+      },
+      "3": {
+        "type": "PERSON"
+      },
+      "4": {
+        "type": "ABNOUN"
+      },
+      "5": {
+        "type": "TITLE"
+      },
+      "6": {
+        "type": "VERB"
+      },
+      "7": {
+        "type": "LNAME"
+      }
+    }
+  },
+  {
+    "script": "Being a young boy in {{1}} is dangerous and unpleasant. This is what {{2}} experiences when he fools a gang of local {{3}} who cornered him at school. The gang finds out that the key he gave them is of no value in committing a robbery, and they chase him through {{4}}, bent on revenge. He tries to escape by slipping into the open door of an old warehouse, but they follow him there, too. While running from them through aisles filled with {{5}}, he bumps into an old boom box. By doing that, he manages to release {{6}}, a genie who has been held captive for thousands of years. In order to stay free, {{6}} must give {{2}} three {{7}}.",
+    "genre": "action",
+    "tokens": {
+      "1": {
+        "type": "LOC"
+      },
+      "2": {
+        "type": "FULLNAMEM"
+      },
+      "3": {
+        "type": "PERSON",
+        "mods": ["plural"]
+      },
+      "4": {
+        "type": "LOC"
+      },
+      "5": {
+        "type": "NOUN",
+        "mods": ["plural"]
+      },
+      "6": {
+        "type": "FNAMEM"
+      },
+      "7": {
+        "type": "NOUN",
+        "mods": ["plural"]
+      }
+    }
+  },
+  {
+    "script": "When young {{1}} in {{2}} goes missing a group of seven {{3}} find out that the killer is not a {{4}}. The killer is the {{5}} {{6}} {{7}} who can shapeshift into the {{8}} you are most afraid of. The {{3}}, also known as the {{9}} Club, decide to {{10}} and kill It. But how can you {{10}} something who knows all your biggest fears?",
+    "genre": "horror",
+    "tokens": {
+      "1": {
+        "type": "PERSON",
+        "mods": ["plural"]
+      },
+      "2": {
+        "type": "LOC"
+      },
+      "3": {
+        "type": "PERSON",
+        "mods": ["plural"]
+      },
+      "4": {
+        "type": "NOUN"
+      },
+      "5": {
+        "type": "ADJ"
+      },
+      "6": {
+        "type": "NOUN"
+      },
+      "7": {
+        "type": "FULLNAMEM"
+      },
+      "8": {
+        "type": "NOUN"
+      },
+      "9": {
+        "type": "NOUN",
+        "mods": ["plural","capitalize"]
+      },
+      "10": {
+        "type": "VERB"
+      }
+    }
+  },
+  {
+    "script": "Gigli, a {{1}} and inept hitman, is assigned a job by the mob to {{2}} an intellectually disabled {{3}} of a California {{4}}. Gigli abducts the {{3}} from his mental hospital and holds him hostage in {{5}}. {{6}}, a 'lesbian {{7}}', is sent to oversee Gigli's job and make sure he doesn't {{8}} it up. {{9}} ensue as the two go on the lam and start to fall in {{10}}.",
+    "genre": "romance",
+    "tokens": {
+      "1": {
+        "type": "ADJ"
+      },
+      "2": {
+        "type": "VERB"
+      },
+      "3": {
+        "type": "PERSON"
+      },
+      "4": {
+        "type": "PERSON"
+      },
+      "5": {
+        "type": "LOC"
+      },
+      "6": {
+        "type": "FULLNAMEF"
+      },
+      "7": {
+        "type": "PERSON"
+      },
+      "8": {
+        "type": "VERB"
+      },
+      "9": {
+        "type": "NOUN",
+        "mods": ["plural","capitalize"]
+      },
+      "10": {
+        "type": "ABNOUN"
+      }
+    }
+  },
+  {
+    "script": "{{1}} is a {{2}} man who works as a {{3}} guard in {{4}}. For years, he has {{5}} hard to become a cop, but he always fails the {{6}} exam because he has hypoglycemia and tends to pass out when his blood sugar is {{7}}. One day, a gang of organized {{8}} puts the mall under siege and take hostages. {{1}} becomes trapped inside, and because of his sense of {{9}}, refuses to leave. He thus becomes the police department's {{10}} on the inside and attempts to stop the {{8}} on his own.",
+    "genre": "comedy",
+    "tokens": {
+      "1": {
+        "type": "FULLNAMEM"
+      },
+      "2": {
+        "type": "ADJ"
+      },
+      "3": {
+        "type": "NOUN"
+      },
+      "4": {
+        "type": "LOC"
+      },
+      "5": {
+        "type": "VERB",
+        "mods": ["past"]
+      },
+      "6": {
+        "type": "NOUN"
+      },
+      "7": {
+        "type": "ADJ"
+      },
+      "8": {
+        "type": "PERSON",
+        "mods": ["plural"]
+      },
+      "9": {
+        "type": "ABNOUN"
+      },
+      "10": {
+        "type": "NOUN"
+      }
+    }
+  }
+]

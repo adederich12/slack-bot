@@ -1,0 +1,107 @@
+[
+  {
+    "script": "Get {{1}}, {{2}}!",
+    "tokens": {
+      "1": {
+        "type": "VERB",
+        "mods": ["past"]
+      },
+      "2": {
+        "type": "USER"
+      }
+    }
+  },
+  {
+    "script": "Eat my {{1}}, {{2}}.",
+    "tokens": {
+      "1": {
+        "type": "NOUN"
+      },
+      "2": {
+        "type": "USER"
+      }
+    }
+  },
+  {
+    "script": "I've got an idea, {{1}}. How about you {{2}} my {{3}}?",
+    "tokens": {
+      "1": {
+        "type": "USER"
+      },
+      "2": {
+        "type": "VERB"
+      },
+      "3": {
+        "type": "NOUN"
+      }
+    }
+  },
+  {
+    "script": "{{1}} - I've never met a {{2}} as {{3}} as you.",
+    "tokens": {
+      "1": {
+        "type": "USER"
+      },
+      "2": {
+        "type": "PERSON"
+      },
+      "3": {
+        "type": "ADJ"
+      }
+    }
+  },
+  {
+    "script": "Hey {{1}}, your face looks like a {{2}} {{3}}.",
+    "tokens": {
+      "1": {
+        "type": "USER"
+      },
+      "2": {
+        "type": "ADJ"
+      },
+      "3": {
+        "type": "NOUN"
+      }
+    }
+  },
+  {
+    "script": "I've found {{1}} in {{2}} that I've liked better than you, {{3}}.",
+    "tokens": {
+      "1": {
+        "type": "NOUN",
+        "mods": ["plural"]
+      },
+      "2": {
+        "type": "LOC"
+      },
+      "3": {
+        "type": "USER"
+      }
+    }
+  },
+  {
+    "script": "{{1}} is such a {{2}} {{3}}.",
+    "tokens": {
+      "1": {
+        "type": "USER"
+      },
+      "2": {
+        "type": "ADJ"
+      },
+      "3": {
+        "type": "NOUN"
+      }
+    }
+  },
+  {
+    "script": "{{1}}, I'm going to start calling you {{2}} from now on.",
+    "tokens": {
+      "1": {
+        "type": "USER"
+      },
+      "2": {
+        "type": "FULLNAMEM"
+      }
+    }
+  }
+]
